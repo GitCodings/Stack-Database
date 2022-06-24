@@ -4,9 +4,10 @@ Initial database values for the Stack services
 
 # IDM
 
-IDM has `two` scripts that can be inserted in any order:
- - `idm_token_status` 
- - `idm_user_status`
+IDM has `three` scripts that can be inserted in any order:
+ - `idm_role.sql`
+ - `idm_token_status.sql` 
+ - `idm_user_status.sql`
 
 # Movies
 
