@@ -27,4 +27,4 @@ All the data for the database is sourced from TMDb: [The Movie Database](https:/
 # Billing
 
 Billing contains only `one` script:
- 1. `billing_movie_price.sql`
+ - `billing_movie_price.sql`
